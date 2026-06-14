@@ -3,7 +3,7 @@ title: Welcome to FragBase
 ---
 ## FragBase
 
-Fragbase is a knowledge base for fragrances it will organize scent based on their profiles, season, popularity and theme.
+FrageBase is a knowledge base for fragrances! Find new fragrances off of notes, seasons, themes, or what's popular. 
 
 ## Editing pages
 
