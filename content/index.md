@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## FragBase
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Fragbase is a knowledge base for fragrances it will organize scent based on their profiles, season, popularity and theme.
 
 ## Editing pages
 
