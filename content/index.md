@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Welcome to FragBase
 ---
 ## FragBase
 
