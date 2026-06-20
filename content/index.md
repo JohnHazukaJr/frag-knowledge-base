@@ -7,7 +7,7 @@ FragBase is a knowledge base for fragrances! Find new fragrances off of notes, s
 
 ## Main Categories
 
-- [[content/category-01/index|Origin]]
+- [[category-01/index|Origin]]
 - [[content/category-02/index|Season]] 
 - [[content/category-03/index|Notes]]
 - [[content/category-04/index|Theme]]
