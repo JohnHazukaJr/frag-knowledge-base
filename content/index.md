@@ -10,6 +10,6 @@ FragBase is a knowledge base for fragrances! Find new fragrances off of notes, s
 - [[category-01/index|Origin]]
 - [[category-02/index|Season]] 
 - [[category-03/index|Notes]]
-- [[category-04/index|Theme]]
+- [[category-04/index|Occasion]]
 - [[category-05/index|Perfumer]]
 
