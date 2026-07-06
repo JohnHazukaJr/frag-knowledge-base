@@ -3,9 +3,11 @@ title: Season
 ---
 # Notes:
 
+[[aquatic|Aquatic]]
+
 [[citrus|Citrus]]
 
-Floral
+[[floral|Floral]]
 
 Fougeres
 
