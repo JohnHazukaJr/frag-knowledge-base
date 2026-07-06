@@ -8,6 +8,8 @@ Aquatic notes have been in a mainstay in the fragrance game for many years. Typi
 > Typically known as a "blue scent" that most would describe as a blue shower gel smell aquatic fragrances typically lean masculine.
 
 ![[aquatic.png|300]]
+
+---
 ## Aquatic Notes
 
 - *Marine/Oceanic*
@@ -19,7 +21,7 @@ Aquatic notes have been in a mainstay in the fragrance game for many years. Typi
 - *Rain*
 
 - *Sea Salt*
-
+---
 ## Popular Aquatic Fragrances
 
 
@@ -33,5 +35,5 @@ Aquatic notes have been in a mainstay in the fragrance game for many years. Typi
 
 - *Cool Water- Davidoff*
 
-
+---
 #### [[content/category-02/index|Notes]]

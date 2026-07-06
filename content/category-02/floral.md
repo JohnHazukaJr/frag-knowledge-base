@@ -10,6 +10,7 @@ Floral fragrances are some of the most popular and recognizable scents in perfum
 
 ![[floral.png|300]]
 
+---
 ## Popular Floral Notes
 
 - *Gardenia*
@@ -26,6 +27,7 @@ Floral fragrances are some of the most popular and recognizable scents in perfum
 
 - *Tuberose*
 
+---
 ## Popular Floral Fragrances
 
 - *L'Eau d'Issey Pour Homme- Issey Miyake*
@@ -38,4 +40,5 @@ Floral fragrances are some of the most popular and recognizable scents in perfum
 
 - *You- Glossier*
 
+---
 #### [[content/category-02/index|Notes]]

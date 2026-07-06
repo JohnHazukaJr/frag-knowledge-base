@@ -9,6 +9,7 @@ Woody notes are used in fragrances to give them a deeper, more natural smell. Th
 
 ![[woody.png|300]]
 
+---
 ## Popular Wood Notes
 
 - *Birch*
@@ -29,6 +30,7 @@ Woody notes are used in fragrances to give them a deeper, more natural smell. Th
 
 - *Vetiver*
 
+---
 
 ## Popular Gourmand Fragrances
 
@@ -43,5 +45,5 @@ Woody notes are used in fragrances to give them a deeper, more natural smell. Th
 
 - *Explorer- Montblanc*
 
-
+---
 #### [[content/category-02/index|Notes]]

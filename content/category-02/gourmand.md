@@ -9,6 +9,8 @@ Gourmand fragrances are scents that are inspired by foods, desserts, and drinks.
 > They are usually sweeter and heavier than fresh fragrances, which is why they tend to be more popular during the fall and winter.
 
 ![[gourmand.png|300]]
+
+---
 ## Gourmand Notes
 
 - *Cinnamon*
@@ -31,6 +33,7 @@ Gourmand fragrances are scents that are inspired by foods, desserts, and drinks.
 
 - *Many many many more*
 
+---
 ## Popular Gourmand Fragrances
 
 
@@ -44,5 +47,5 @@ Gourmand fragrances are scents that are inspired by foods, desserts, and drinks.
 
 - *Liquid Brun- French Avenue*
 
-
+---
 #### [[content/category-02/index|Notes]]

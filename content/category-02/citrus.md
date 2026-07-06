@@ -9,6 +9,7 @@ One of the most common notes found in fragrances is a the Citrus note.  Commonly
 
 ![Lemons on the Amalfi Coast|300](citrus.png)
 
+---
 ## Popular Citrus Notes
 
 - *Bergamot*
@@ -25,6 +26,7 @@ One of the most common notes found in fragrances is a the Citrus note.  Commonly
 
 - *Yuzu*
 
+---
 ## Popular Citrus Fragrances
 
 - *Afternoon Swim- Louis Vuitton*
@@ -35,5 +37,6 @@ One of the most common notes found in fragrances is a the Citrus note.  Commonly
 
 - *Neroli Portofino- Tom Ford*
 
+---
 #### [[content/category-02/index|Notes]]
 
