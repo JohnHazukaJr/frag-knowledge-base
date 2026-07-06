@@ -9,11 +9,9 @@ title: Notes
 
 [[floral|Floral]]
 
-Fougeres
+[[gourmand|Gourmand]]
 
-Gourmand
-
-Woody
+[[wood|Wood]]
 
 
 ## Related Categories
