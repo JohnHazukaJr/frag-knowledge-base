@@ -3,7 +3,11 @@ title: Welcome to FragBase
 ---
 # FragBase
 
-FragBase is a knowledge base for fragrances! Find new fragrances off of notes, seasons, themes, or what's popular. 
+>FragBase is a knowledge base for fragrances! Find new fragrances off of notes, seasons, themes, or what's popular. 
+
+
+![[torino-21.png|300]]
+
 
 ## Main Categories
 
@@ -13,3 +17,6 @@ FragBase is a knowledge base for fragrances! Find new fragrances off of notes, s
 - [[category-04/index|Occasion]]
 - [[category-05/index|Perfumer]]
 
+#### Quick Reference Guide
+
+![[simple-frag-guide.pdf|300]]
