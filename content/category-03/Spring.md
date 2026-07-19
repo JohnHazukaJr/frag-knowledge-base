@@ -21,7 +21,7 @@ title: Spring
 #### Looking for a different season?
 
 - [[Fall]]
-- [[Winter]]
+- [[winter|Winter]]
 - [[Summer]]
 
   

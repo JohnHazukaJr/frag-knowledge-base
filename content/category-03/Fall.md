@@ -16,7 +16,7 @@ title: Fall
 
 #### Looking for a different season?
 
-- [[Winter]]
+- [[winter|Winter]]
 - [[Spring]]
 - [[Summer]]
 
