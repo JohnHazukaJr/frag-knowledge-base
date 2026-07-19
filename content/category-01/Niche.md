@@ -22,6 +22,7 @@ title: Niche
 - *Initio Parfums Privés*
 
 
+![[niche.png|300]]
 
 
 #### Would you like to learn about [[[Designer|Designer]] or [[Middle Eastern|Middle Eastern]] houses? 

@@ -17,5 +17,5 @@ title: Middle Eastern
 
 - *Swiss Arabian*
 
-
+![[middle-eastern.png|300]]
 #### Would you like to learn about [[[Niche|Niche]] or [[Designer|Designer]] houses? 
