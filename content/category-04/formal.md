@@ -35,4 +35,10 @@ Formal occasions like weddings, galas, and special events are the perfect time t
 - [[date-night|Date Night]]
 - [[gym|Gym]]
 
+## Sources
+
+- [The Perfume Society — FAQs (fragrance wardrobe & scent circle)](https://perfumesociety.org/discover-perfume/an-introduction/faq/)
+
+See also: [[references|References]]
+
 #### [[content/category-04/index|Occasion]]

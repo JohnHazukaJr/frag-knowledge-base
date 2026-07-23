@@ -16,6 +16,7 @@ title: Welcome to FragBase
 - [[category-02/index|Notes]]
 - [[category-04/index|Occasion]]
 - [[category-05/index|Perfumer]]
+- [[references|References]]
 
 #### Quick Reference Guide
 

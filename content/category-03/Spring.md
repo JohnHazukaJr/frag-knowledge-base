@@ -24,4 +24,9 @@ title: Spring
 - [[winter|Winter]]
 - [[Summer]]
 
-  
+## Sources
+
+- [The Perfume Society — Changing up your scents for spring](https://perfumesociety.org/changing-up-your-scents-for-spring-what-feels-right-for-right-now/)
+
+See also: [[references|References]]
+ 

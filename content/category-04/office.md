@@ -35,4 +35,10 @@ Office fragrances need to be professional and considerate of the people around y
 - [[gym|Gym]]
 - [[formal|Formal]]
 
+## Sources
+
+- [The Perfume Society — FAQs (fragrance wardrobe & scent circle)](https://perfumesociety.org/discover-perfume/an-introduction/faq/)
+
+See also: [[references|References]]
+
 #### [[content/category-04/index|Occasion]]

@@ -9,8 +9,21 @@ title: Summer
 
 - *Virgin Island Water- Creed*
 - *Miami- City Rhythm*
-- *Torino 21- Xerjoff
+- *Torino 21- Xerjoff*
 - *Imagination- Louis Vuitton*
 - *Aqua di Gio- Giorgio Armani*
 - *Man Eau Fraîche- Versace*
+
+#### Looking for a different season?
+
+- [[Spring]]
+- [[Fall]]
+- [[winter|Winter]]
+
+## Sources
+
+- [The Perfume Society — What makes a “summer” fragrance?](https://perfumesociety.org/what-makes-a-summer-fragrance-plus-get-scent-samples-here/)
+- [Xerjoff — Torino21](https://www.xerjoff.com/en-us/products/torino21-eau-de-parfum)
+
+See also: [[references|References]]
 

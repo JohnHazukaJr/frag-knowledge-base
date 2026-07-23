@@ -23,4 +23,10 @@ Olivier Cresp is a French perfumer known for creating bold, distinctive fragranc
 - [[alberto-morillas|Alberto Morillas]]
 - [[jean-claude-ellena|Jean-Claude Ellena]]
 
+## Sources
+
+- [Long, A. — Lifetime achievement perfumer: Olivier Cresp (The Fragrance Foundation)](https://fragrance.org/honoree/lifetime-achievement-perfumer-olivier-cresp/)
+
+See also: [[references|References]]
+
 #### [[content/category-05/index|Perfumer]]

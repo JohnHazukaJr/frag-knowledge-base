@@ -41,4 +41,10 @@ Floral fragrances are some of the most popular and recognizable scents in perfum
 - *You- Glossier*
 
 ---
+## Sources
+
+- [Fragrantica — Fragrance notes](https://www.fragrantica.com/notes/)
+
+See also: [[references|References]]
+
 #### [[content/category-02/index|Notes]]

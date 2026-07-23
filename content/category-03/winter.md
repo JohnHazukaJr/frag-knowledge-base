@@ -12,10 +12,16 @@ title: Winter
 - *Ombre Nomade- Louis Vuitton*
 - *Grand Soir- Maison Francis Kurkdjian*
 - *Oud for Greatness- Initio Parfums Privés*
-- *Angels' Share- Kilian*
+- *Oajan- Parfum de Marly*
 
 #### Looking for a different season?
 
 - [[Spring]]
 - [[Summer]]
 - [[Fall]]
+
+## Sources
+
+- [The Perfume Society — Are scents really seasonal?](https://perfumesociety.org/are-scents-really-seasonal/)
+
+See also: [[references|References]]

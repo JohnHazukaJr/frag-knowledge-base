@@ -36,4 +36,10 @@ Aquatic notes have been in a mainstay in the fragrance game for many years. Typi
 - *Cool Water- Davidoff*
 
 ---
+## Sources
+
+- [Fragrantica — Fragrance notes](https://www.fragrantica.com/notes/)
+
+See also: [[references|References]]
+
 #### [[content/category-02/index|Notes]]

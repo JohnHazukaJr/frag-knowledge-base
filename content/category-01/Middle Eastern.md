@@ -18,4 +18,11 @@ title: Middle Eastern
 - *Swiss Arabian*
 
 ![[middle-eastern.png|300]]
-#### Would you like to learn about [[[Niche|Niche]] or [[Designer|Designer]] houses? 
+#### Would you like to learn about [[Niche|Niche]] or [[Designer|Designer]] houses?
+
+## Sources
+
+- [Hussein, J. (2022). Actually, the birthplace of modern fragrance is the Middle East. *Allure*](https://www.allure.com/story/middle-east-fragrance-history)
+- [Lattafa Perfumes — About us](https://lattafa.com/about-us/)
+
+See also: [[references|References]]

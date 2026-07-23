@@ -22,7 +22,7 @@ title: Designer
 
 ![[designer.png|300]]
 
-#### Would you like to learn about [[[Niche|Niche]] or [[Middle Eastern|Middle Eastern]] houses? 
+#### Would you like to learn about [[Niche|Niche]] or [[Middle Eastern|Middle Eastern]] houses?
 
 
 

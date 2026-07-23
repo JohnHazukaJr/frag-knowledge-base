@@ -23,4 +23,10 @@ Francis Kurkdjian is one of the most celebrated perfumers of the modern era and 
 - [[olivier-cresp|Olivier Cresp]]
 - [[jean-claude-ellena|Jean-Claude Ellena]]
 
+## Sources
+
+- [Fragrantica — Nose: Francis Kurkdjian](https://www.fragrantica.com/noses/Francis_Kurkdjian.html)
+
+See also: [[references|References]]
+
 #### [[content/category-05/index|Perfumer]]

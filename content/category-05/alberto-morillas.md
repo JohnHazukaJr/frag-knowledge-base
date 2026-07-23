@@ -23,4 +23,10 @@ Alberto Morillas is a legendary perfumer with a career spanning several decades 
 - [[olivier-cresp|Olivier Cresp]]
 - [[jean-claude-ellena|Jean-Claude Ellena]]
 
+## Sources
+
+- [Fragrantica — Nose: Alberto Morillas](https://www.fragrantica.com/noses/Alberto_Morillas.html)
+
+See also: [[references|References]]
+
 #### [[content/category-05/index|Perfumer]]

@@ -35,4 +35,10 @@ Everyday fragrances are the scents you can reach for without thinking twice. The
 - [[gym|Gym]]
 - [[formal|Formal]]
 
+## Sources
+
+- [The Perfume Society — FAQs (fragrance wardrobe & scent circle)](https://perfumesociety.org/discover-perfume/an-introduction/faq/)
+
+See also: [[references|References]]
+
 #### [[content/category-04/index|Occasion]]

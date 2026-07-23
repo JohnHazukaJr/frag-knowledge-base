@@ -38,5 +38,12 @@ One of the most common notes found in fragrances is a the Citrus note.  Commonly
 - *Neroli Portofino- Tom Ford*
 
 ---
+## Sources
+
+- [Fragrantica — Fragrance notes](https://www.fragrantica.com/notes/)
+- [Xerjoff — Torino21](https://www.xerjoff.com/en-us/products/torino21-eau-de-parfum)
+
+See also: [[references|References]]
+
 #### [[content/category-02/index|Notes]]
 

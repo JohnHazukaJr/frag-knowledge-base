@@ -23,4 +23,10 @@ Jean-Claude Ellena is a perfumer celebrated for his minimalist, refined approach
 - [[alberto-morillas|Alberto Morillas]]
 - [[olivier-cresp|Olivier Cresp]]
 
+## Sources
+
+- [Fragrantica — Nose: Jean-Claude Ellena](https://www.fragrantica.com/noses/Jean-Claude_Ellena.html)
+
+See also: [[references|References]]
+
 #### [[content/category-05/index|Perfumer]]

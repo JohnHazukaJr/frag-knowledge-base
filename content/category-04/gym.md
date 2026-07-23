@@ -35,4 +35,11 @@ Gym fragrances are all about staying fresh while you sweat. Since you are moving
 - [[date-night|Date Night]]
 - [[formal|Formal]]
 
+## Sources
+
+- [The Perfume Society — FAQs (fragrance wardrobe & scent circle)](https://perfumesociety.org/discover-perfume/an-introduction/faq/)
+- [WhatScent — Best layering for gym & post-workout](https://whatscent.app/magazine/best-layering-for-gym)
+
+See also: [[references|References]]
+
 #### [[content/category-04/index|Occasion]]

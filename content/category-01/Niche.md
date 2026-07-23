@@ -25,4 +25,11 @@ title: Niche
 ![[niche.png|300]]
 
 
-#### Would you like to learn about [[[Designer|Designer]] or [[Middle Eastern|Middle Eastern]] houses? 
+#### Would you like to learn about [[Designer|Designer]] or [[Middle Eastern|Middle Eastern]] houses?
+
+## Sources
+
+- [The Perfume Society — What is niche fragrance, and where do you begin?](https://perfumesociety.org/what-is-niche-fragrance-and-where-do-you-begin/)
+- [Imaginary Authors — The Cobra & the Canary](https://imaginaryauthors.com/products/the-cobra-the-canary)
+
+See also: [[references|References]]

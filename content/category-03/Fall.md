@@ -20,3 +20,9 @@ title: Fall
 - [[Spring]]
 - [[Summer]]
 
+## Sources
+
+- [Nightingale, S. — Which amber scents are we wearing for autumn? (The Perfume Society)](https://perfumesociety.org/amber-scents-for-autumn/)
+
+See also: [[references|References]]
+
