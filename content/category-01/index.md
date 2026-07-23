@@ -1,5 +1,6 @@
 ---
 title: Origin
+date: 2026-07-22
 ---
 ## Related Categories
 

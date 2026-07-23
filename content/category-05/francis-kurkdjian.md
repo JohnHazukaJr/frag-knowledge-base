@@ -1,5 +1,6 @@
 ---
 title: Francis Kurkdjian
+date: 2026-07-22
 ---
 # Francis Kurkdjian
 

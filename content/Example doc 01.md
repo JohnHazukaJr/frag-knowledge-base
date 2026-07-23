@@ -1,5 +1,6 @@
 ---
 title: Creating docs and frontmatter
+date: 2026-07-22
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 

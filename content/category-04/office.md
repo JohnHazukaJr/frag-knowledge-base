@@ -1,5 +1,6 @@
 ---
 title: Office
+date: 2026-07-22
 ---
 # Office
 

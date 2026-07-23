@@ -1,5 +1,6 @@
 ---
 title: Date Night
+date: 2026-07-22
 ---
 # Date Night
 

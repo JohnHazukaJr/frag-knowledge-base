@@ -1,5 +1,6 @@
 ---
 title: Jean-Claude Ellena
+date: 2026-07-22
 ---
 # Jean-Claude Ellena
 

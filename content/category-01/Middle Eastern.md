@@ -1,5 +1,6 @@
 ---
 title: Middle Eastern
+date: 2026-07-22
 ---
 # Middle Eastern 
 

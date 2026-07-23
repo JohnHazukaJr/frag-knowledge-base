@@ -1,5 +1,6 @@
 ---
 title: Everyday
+date: 2026-07-22
 ---
 # Everyday
 
